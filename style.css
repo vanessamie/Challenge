@@ -114,6 +114,9 @@ main .aviso {
 
     font-size: 15px;
     color: purple;
+    
+    padding-top: 20px;
+    padding-left: 20px;
 }
 
 #copiar {
