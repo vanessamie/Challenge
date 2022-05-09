@@ -129,6 +129,11 @@ main .aviso {
     border-radius: 20px;
 }
 
+#copiar:hover {
+    text-transform: uppercase;
+    transform:scale(1.2);
+}
+
 .aviso,
 footer {
     display: flex;
